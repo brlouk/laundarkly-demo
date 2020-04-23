@@ -1,0 +1,4 @@
+logging:  level:    com.launchdarkly: DEBUGserver:  port: 9098
+
+launchdarkly:
+  sdkKey: "sdk-84c812cf-7ba8-48d2-bca5-6be0a118451b"
